@@ -1,0 +1,10 @@
+.toolbar-container {
+  display: flex;
+  gap: 1rem;
+  background-color: var(--primary);
+  color: var(--text-dark);
+  padding: 1rem;
+  max-height: 54px;
+  align-items: center;
+  justify-content: space-between;
+}
