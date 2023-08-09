@@ -1,3 +1,14 @@
+# Framework Battle Royale ! 
+
+Probamos todos los frameworks y comprobamos los resultados - Qwik!🤫
+
+# Resultados Qwik en máquina local, en incógnito, con Chrome Profiler
+* 8ms Loading
+* 32ms Scripting
+* 8ms Rendering
+* 0ms Painting
+* 37ms System
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
